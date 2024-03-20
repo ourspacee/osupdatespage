@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(210, 210, 210);
+    margin: 0px;
+}
+
+.actualbody{
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    width: 50%;
+    height: 700px;
+}
+
+.topbar{
+    background-color: rgb(54, 72, 231);
+    padding: 15px;
+}
+
+.tblogo{
+    width: 20%;
+    height: 20%;
+}
+
+.updatesframe{
+    margin: 0px;
+    padding: 10px;
+}
+
+.update1{
+    border: 2px;
+    border-style: solid;
+    text-align: left;
+    padding: 10px;
+}
+
+.u1title{
+    margin: 0px;
+}
+
+.u1subtitle{
+    margin: 0px;
+}
+
+.u1description{
+    margin: 0px;
+}
